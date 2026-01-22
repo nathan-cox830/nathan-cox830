@@ -8,8 +8,8 @@ I'm a student at the University of Notre Dame studying Applied and Computational
 - 📫 How to reach me: ncox4@nd.edu
 
 ## Hobbies and Interests
-- Roller Coaster Enthusiast - Have ridden over 100 coasters!
-- Hiking, exploring, and traveling
+- 🎢 Roller Coaster Enthusiast - Have ridden over 100 coasters!
+- 🥾 Hiking, exploring, and traveling
 
 ## Languages and Softwares
 <img width="26px" height="26px" alt="Python" src="https://github.com/user-attachments/assets/3b6935d9-77dc-4526-adf5-9ce5df2f2f78" />
