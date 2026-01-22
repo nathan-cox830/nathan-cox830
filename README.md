@@ -7,5 +7,6 @@ I'm a student at the University of Notre Dame studying Applied and Computational
 - 🌱 Learning Python, pandas, and data visualization
 - 📫 How to reach me: ncox4@nd.edu
 
-## Interests
-- [Add a few of your interests or hobbies]
+## Hobbies and Interests
+- Roller Coaster Enthusiast - Have ridden over 100 coasters!
+- Hiking, exploring, and traveling
