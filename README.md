@@ -17,4 +17,4 @@ I'm a student at the University of Notre Dame studying Applied and Computational
 <img width="26px" height="26px" alt="Tableau" src="https://github.com/user-attachments/assets/22580ce0-ac2c-486b-9378-d3ebd04b3f33" />
 
 ## Data Science Projects
-https://github.com/nathan-cox830/Cox-Data-Science-Portfolio
+[Nathan Cox Data Science] (https://github.com/nathan-cox830/Cox-Data-Science-Portfolio)
