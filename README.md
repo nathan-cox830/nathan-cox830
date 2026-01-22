@@ -12,6 +12,6 @@ I'm a student at the University of Notre Dame studying Applied and Computational
 - Hiking, exploring, and traveling
 
 ## Languages and Softwares
-<img width="26px" height="26px" alt="Python" src="https://github.com/user-attachments/assets/14e72af6-6e90-4710-91b4-e835d46f50e2" />
+<img width="26px" height="26px" alt="Python" src="https://github.com/user-attachments/assets/3b6935d9-77dc-4526-adf5-9ce5df2f2f78" />
 <img width="26px" height="26px" alt="RStudio" src="https://github.com/user-attachments/assets/985802d6-ef76-44dc-9cab-3eca5838de51" />
 <img width="26px" height="26px" alt="Tableau" src="https://github.com/user-attachments/assets/22580ce0-ac2c-486b-9378-d3ebd04b3f33" />
