@@ -1,6 +1,10 @@
 ## Hi, I'm Nathan 👋
 
-I'm a student at the University of Notre Dame studying Applied and Computational Mathematics and Statistics.
+I'm a student at the University of Notre Dame studying Applied and Computational Mathematics and Statistics. <br>
+
+I am interested in the intersection of data, statistics, and solving real-world problems! <br>
+
+This semester, I have been working on exploring this interest through learning in my Intro to Data Science class, conducting research that utilizes data skills to address problems regarding student well-being on campus, and recently joining the iTREDS Scholars Program, an ethical AI and data science program.
 
 ## About Me
 - 🎓 Currently taking Introduction to Data Science
@@ -18,3 +22,9 @@ I'm a student at the University of Notre Dame studying Applied and Computational
 
 ## Data Science Projects
 [Nathan Cox Data Science](https://github.com/nathan-cox830/Cox-Data-Science-Portfolio)
+
+In this portfolio, I have all of my completed projects from my IDS class this semester! Included are projects in:
+- Exploratory Data Analysis
+- Tidy Data
+- Supervised Machine Learning
+- Unsupervised Machine Learning
